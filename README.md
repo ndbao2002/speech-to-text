@@ -84,6 +84,12 @@ Evaluate DeepSpeech accuracy on LibriSpeech (clean):
 python eval.py
 ```
 
+I also added a script for comparing acoustic models with and without scorer:
+```bash
+python comparison.py
+```
+This will output the comparison results between the models. Showing that with scorer, the sentence more matching the reference transcript.
+
 ---
 
 ## 🌐 2. Streamlit Web App
