@@ -1,0 +1,9 @@
+deepspeech==0.9.3
+numpy
+soundfile
+librosa
+noisereduce
+streamlit
+cohere
+streamlit-webrtc
+av
